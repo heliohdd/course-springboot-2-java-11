@@ -10,6 +10,7 @@ import com.educandoweb.course.entities.Order;
 import com.educandoweb.course.entities.Product;
 
 @Embeddable
+
 public class OrderItemPK implements Serializable {
 	private static final long serialVersionUID = 1L;
 	
